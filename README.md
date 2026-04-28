@@ -17,5 +17,5 @@ Each project includes data cleaning, exploratory analysis, and business insights
 - Key Insight: Completion rates are consistent regardless of rating
 
 ### 🚲 Bike Shop Analysis
-- [View Report](https://nickgacharich.github.io/Data_analysis_exploration/bike_shop_data_analysis(1).html)
+- [View Report](https://nickgacharich.github.io/Data_analysis_exploration/bike_shop_data_analysis.html)
 - Key Insight: Premium products drive most revenue
